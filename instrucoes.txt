@@ -1,0 +1,9 @@
+Rodando o servidor
+
+Depois do Node.js ter sido instalado, dentro da pasta do projeto alurapic que você descompactou anteriormente, busque todas as dependências do projeto através do seu terminal (prompt de comando, no caso do Windows) favorito com o comando.
+
+npm install
+
+Em menos de um minuto, todas as dependências para rodar o servidor terão sido baixadas. Para subi-lo utilizamos o comando:
+
+npm start

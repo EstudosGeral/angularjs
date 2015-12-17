@@ -1,0 +1,1 @@
+angular.module('pricipal', []);//nome do modulo = pricipal
