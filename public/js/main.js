@@ -1,1 +1,1 @@
-angular.module('pricipal', []);//nome do modulo = pricipal
+angular.module('pricipal', ['minhasDiretivas']);//nome do modulo = pricipal
